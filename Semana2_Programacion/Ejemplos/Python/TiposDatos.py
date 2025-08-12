@@ -5,3 +5,4 @@ nombre = "Ana"  # nombre es str
 es_activo = True # bool
 
 print(type(x), type(y), type(nombre), type(es_activo))
+
